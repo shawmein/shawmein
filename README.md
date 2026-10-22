@@ -1,10 +1,15 @@
 # 🇨🇳 欢迎光临我的 GitHub 世界 · Welcome to My GitHub Realm 🇨🇳  
 
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/1200px-Flag_of_the_People%27s_Republic_of_China.svg.png" width="200](https://en.wikipedia.org/wiki/Chinese_Soviet_Republic" alt="五星红旗迎风飘扬">
-  <br>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Emblem_of_the_Chinese_Communist_Party.svg" width="120" alt="CCP Emblem">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/National_Emblem_of_the_People%27s_Republic_of_China_%282%29.svg" width="130" alt="National Emblem of PRC">
+  <br><br>
   <strong>“代码铸就未来，信仰指引方向”</strong>  
   <p><em>"Code forges the future, faith guides the way."</em></p>
+  
+  <img src="https://img.shields.io/badge/Status-Party_Approved-red?style=for-the-badge&logo=git" alt="Party Approved">
+  <img src="https://img.shields.io/badge/Code_Quality-Socialist_Core_Values-yellow?style=for-the-badge" alt="Socialist Core Values">
 </div>  
 
 ## ⚡ 关于我 · About Me  
