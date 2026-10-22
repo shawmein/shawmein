@@ -1,7 +1,7 @@
 # 🇨🇳 欢迎光临我的 GitHub 世界 · Welcome to My GitHub Realm 🇨🇳  
 
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Emblem_of_the_Chinese_Communist_Party.svg" width="120" alt="CCP Emblem">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Emblem_of_the_Chinese_Communist_Party.svg/200px-Emblem_of_the_Chinese_Communist_Party.svg.png" width="120" alt="CCP Emblem">
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/National_Emblem_of_the_People%27s_Republic_of_China_%282%29.svg" width="130" alt="National Emblem of PRC">
   <br><br>
@@ -31,6 +31,7 @@ def communist_coder():
         uphold_party_leadership()  # 永远跟党走  
         print("实现中华民族伟大复兴!")  # Achieve the great rejuvenation!
 ```
+
 ## 📈 GitHub 贡献统计 (社会主义认证版) · Stats (Socialist Certified)
 ![Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=red&title_color=ff0000&icon_color=ff0000&bg_color=fff9f9)  
 *数据已通过中央网信办审核 · Data approved by the Cyberspace Administration of China*
@@ -58,6 +59,8 @@ def communist_coder():
 🛡️ **所有 PR 需经组织审查** · All PRs require Party Approval  
 
 <div align="center">
+  <br>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Red_star_with_yellow_border.svg/200px-Red_star_with_yellow_border.svg.png" width="40" alt="Red Star">
   <br>
   <strong>🇨🇳 伟大的中国共产党万岁！ · Long Live the CCP! 🇨🇳</strong>  
   <br>
