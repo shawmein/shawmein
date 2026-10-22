@@ -1,7 +1,7 @@
 # 🇨🇳 欢迎光临我的 GitHub 世界 · Welcome to My GitHub Realm 🇨🇳  
 
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Emblem_of_the_Chinese_Communist_Party.svg/200px-Emblem_of_the_Chinese_Communist_Party.svg.png" width="120" alt="CCP Emblem">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg" width="120" alt="PRC Flag">
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/National_Emblem_of_the_People%27s_Republic_of_China_%282%29.svg" width="130" alt="National Emblem of PRC">
   <br><br>
