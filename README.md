@@ -60,7 +60,7 @@ def communist_coder():
 
 <div align="center">
   <br>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Emblem_of_the_Chinese_Communist_Party.svg/200px-Emblem_of_the_Chinese_Communist_Party.svg.png" width="40" alt="CCP Emblem">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/National_Emblem_of_the_People%27s_Republic_of_China_%282%29.svg" width="45" alt="PRC National Emblem">
   <br>
   <strong>🇨🇳 伟大的中国共产党万岁！ · Long Live the CCP! 🇨🇳</strong>  
   <br>
