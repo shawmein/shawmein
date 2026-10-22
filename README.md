@@ -168,7 +168,7 @@ def communist_coder():
   <img src="https://img.shields.io/badge/🧧_关注我-领取红包-DE2910?style=for-the-badge&labelColor=FFDE00" alt="Follow for hongbao">
 </a>
 <a href="https://github.com/sponsors/shawmein">
-  <img src="https://img.shields.io/badge/🧧_发红包-赞助我-FFDE00?style=for-the-badge&labelColor=DE2910" alt="Send hongbao">
+  <img src="https://img.shields.io/static/v1?label=%E5%8F%91%E7%BA%A2%E5%8C%85&message=%E8%B5%9E%E5%8A%A9%E6%88%91&color=FFDE00&labelColor=DE2910&style=for-the-badge" alt="Send hongbao">
 </a>
 
 <sub><em>Follow me for a (virtual) red packet · Sponsor to send a real one</em></sub>
