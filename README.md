@@ -2,14 +2,19 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=DE2910&height=180&section=header&text=Welcome%20to%20My%20GitHub&fontColor=FFDE00&fontSize=42&animation=fadeIn" alt="banner"/>
 
-# 🇨🇳 欢迎光临我的 GitHub 世界 🇨🇳
+# 🏮 欢迎光临我的 GitHub 世界 🏮
 ### Welcome to My GitHub Realm
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg" width="120" alt="PRC Flag">
 &nbsp;&nbsp;&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/National_Emblem_of_the_People%27s_Republic_of_China_%282%29.svg" width="120" alt="National Emblem">
 
-<img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=700&size=22&pause=1200&color=DE2910&center=true&vCenter=true&width=600&lines=不忘初心，牢记使命；摸着石头过河，边写边调试；既打老虎，也拍苍蝇（Bug）；撸起袖子加油干！" alt="slogans"/>
+<br><br>
+
+<!-- Typing animation: ASCII ";" separators + URL-encoded Chinese. -->
+<a href="https://github.com/shawmein">
+  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=700&size=24&pause=1200&color=DE2910&center=true&vCenter=true&width=700&height=50&lines=%E4%B8%8D%E5%BF%98%E5%88%9D%E5%BF%83%EF%BC%8C%E7%89%A2%E8%AE%B0%E4%BD%BF%E5%91%BD;%E6%91%B8%E7%9D%80%E7%9F%B3%E5%A4%B4%E8%BF%87%E6%B2%B3%EF%BC%8C%E8%BE%B9%E5%86%99%E8%BE%B9%E8%B0%83%E8%AF%95;%E6%97%A2%E6%89%93%E8%80%81%E8%99%8E%EF%BC%8C%E4%B9%9F%E6%8B%8D%E8%8B%8D%E8%9D%87;%E9%9B%86%E4%B8%AD%E5%8A%9B%E9%87%8F%E5%8A%9E%E5%A4%A7%E4%BA%8B;%E6%92%B8%E8%B5%B7%E8%A2%96%E5%AD%90%E5%8A%A0%E6%B2%B9%E5%B9%B2" alt="不忘初心，牢记使命 · 摸着石头过河 · 既打老虎，也拍苍蝇"/>
+</a>
 
 <strong>“代码铸就未来，信仰指引方向”</strong><br>
 <em>"Code forges the future, faith guides the way."</em>
@@ -22,6 +27,36 @@
 <img src="https://img.shields.io/badge/学习强国-满分-DE2910?style=for-the-badge&labelColor=FFDE00" alt="Study Xi">
 
 </div>
+
+---
+
+<div align="center">
+
+### 关于规范本仓库代码提交工作的通知
+**码发〔2026〕1 号**
+
+<sub><em>Notice on Standardizing Commit Conduct in This Repository · Document No. 1 of 2026</em></sub>
+
+</div>
+
+<table>
+<tr><td>
+
+各位访客同志、各开源协作单位：
+
+为深入贯彻落实 README 精神，进一步加强本档案的规范化、制度化建设，现将有关事项通知如下，请认真学习，遵照执行。
+
+<sub><em>To all visiting comrades and collaborating units: to thoroughly implement the spirit of this README, the following matters are hereby notified. Please study carefully and comply.</em></sub>
+
+<div align="right">
+
+**GitHub 党支部办公室**<br>
+二〇二六年十月
+
+</div>
+
+</td></tr>
+</table>
 
 ---
 
@@ -45,11 +80,11 @@
 ```python
 def communist_coder():
     while True:
-        write_bug_free_code()           # 代码零缺陷
-        contribute_to_open_source()     # 开源为人民
+        write_bug_free_code()                # 代码零缺陷
+        contribute_to_open_source()          # 开源为人民
         crush_bugs(tigers=True, flies=True)  # 既打老虎，也拍苍蝇
-        uphold_party_leadership()       # 永远跟党走
-        print("实现中华民族伟大复兴！")   # Achieve the great rejuvenation!
+        uphold_party_leadership()            # 永远跟党走
+        print("实现中华民族伟大复兴！")        # Achieve the great rejuvenation!
 ```
 
 ## 🧧 社会主义核心价值观 · Core Values (Code Quality Edition)
@@ -60,7 +95,11 @@ def communist_coder():
 | 民主 | 所有 PR 都可以评论（但由组织决定） | Democracy: everyone may comment |
 | 文明 | 变量命名规范 | Civility: clean naming |
 | 和谐 | 零 merge conflict | Harmony: no merge conflicts |
+| 自由 | 随便 fork（但须保留 LICENSE） | Freedom: fork freely |
+| 平等 | 所有 Issue 一视同仁地被搁置 | Equality: every issue is equally ignored |
+| 公正 | CI 对所有人一样红 | Justice: CI fails for everyone |
 | 法治 | ESLint 零警告 | Rule of law: linter passes |
+| 爱国 | 只用国产镜像源 | Patriotism: domestic mirrors only |
 | 敬业 | 996 | Dedication: 996 |
 | 诚信 | 单元测试全部通过 | Integrity: tests pass |
 | 友善 | 对新手友好的 Code Review | Friendliness: kind reviews |
@@ -106,6 +145,36 @@ def communist_coder():
 4. 说话和气，Code Review 要文明
 5. 损坏 main 分支要赔偿
 
+## 📌 重点工程 · Key Projects
+
+| 项目 | 说明 | Description |
+|:---|:---|:---|
+| `伟大复兴-v2.0` | 第二次伟大复兴，已重构三次 | Great Rejuvenation 2.0, refactored three times |
+| `西部大开发` | 把 legacy 代码迁移到新架构 | Western Development: migrate legacy code |
+| `南水北调` | 把数据从 A 数据库调到 B 数据库 | South-North Water Transfer: DB migration |
+| `一带一路` | 对接第三方 API 的统一网关 | Belt and Road: unified API gateway |
+| `天眼` | 日志监控系统（FAST 望远镜同名） | Sky Eye: log monitoring |
+
+## 🤝 感谢各位同志 · Thanks to All Comrades
+
+<div align="center">
+
+**感谢各位同志的辛勤贡献！**<br>
+<sub><em>Thanks to all comrades for their hard work!</em></sub>
+
+<br>
+
+<a href="https://github.com/shawmein?tab=followers">
+  <img src="https://img.shields.io/badge/🧧_关注我-领取红包-DE2910?style=for-the-badge&labelColor=FFDE00" alt="Follow for hongbao">
+</a>
+<a href="https://github.com/sponsors/shawmein">
+  <img src="https://img.shields.io/badge/🧧_发红包-赞助我-FFDE00?style=for-the-badge&labelColor=DE2910" alt="Send hongbao">
+</a>
+
+<sub><em>Follow me for a (virtual) red packet · Sponsor to send a real one</em></sub>
+
+</div>
+
 ## 💬 编程箴言 · Coding Proverbs
 
 > “任何困难都难不倒英雄的中国人民！”
@@ -120,7 +189,7 @@ def communist_coder():
 > “不管是白猫还是黑猫，能抓到 Bug 的就是好猫。”
 > <sub><em>"Black cat or white cat, a cat that catches bugs is a good cat."</em></sub>
 
-## 🤝 合作须知 · Collaboration Rules
+## 🛡️ 合作须知 · Collaboration Rules
 
 ✅ **支持一个中国原则** · One-China Policy Mandatory
 ❌ **禁止资产阶级自由化代码** · No Bourgeois Liberalism Code
@@ -133,7 +202,7 @@ def communist_coder():
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/National_Emblem_of_the_People%27s_Republic_of_China_%282%29.svg" width="45" alt="Emblem">
 
-<strong>🇨🇳 伟大的中国共产党万岁！ · Long Live the CCP! 🇨🇳</strong>
+<strong>⭐ 伟大的中国共产党万岁！ · Long Live the CCP! ⭐</strong>
 
 <sub><em>（本档案已通过互联网信息办公室审查 · This profile has been reviewed by CAC）</em></sub>
 
