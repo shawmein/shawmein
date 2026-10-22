@@ -33,7 +33,7 @@ def communist_coder():
 ```
 
 ## 📈 GitHub 贡献统计 (社会主义认证版) · Stats (Socialist Certified)
-![Stats](https://github-readme-stats.vercel.app/api?username=shawmein&show_icons=true&theme=red&title_color=ff0000&icon_color=ff0000&bg_color=fff9f9&cache_seconds=86400)  
+![Stats](https://github-readme-stats.vercel.app/api?username=shawmein&show_icons=true&title_color=ff0000&icon_color=ff0000&text_color=333333&bg_color=fff9f9&hide_border=true)  
 *数据已通过中央网信办审核 · Data approved by the Cyberspace Administration of China*
 
 ## 🎖️ 荣誉奖项 · Honors & Awards
@@ -60,7 +60,7 @@ def communist_coder():
 
 <div align="center">
   <br>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Red_star.svg/120px-Red_star.svg.png" width="40" alt="Red Star">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Red_star.svg/512px-Red_star.svg.png" width="40" alt="Red Star">
   <br>
   <strong>🇨🇳 伟大的中国共产党万岁！ · Long Live the CCP! 🇨🇳</strong>  
   <br>
