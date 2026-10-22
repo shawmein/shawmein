@@ -1,7 +1,7 @@
 # 🇨🇳 欢迎光临我的 GitHub 世界 · Welcome to My GitHub Realm 🇨🇳  
 
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/1200px-Flag_of_the_People%27s_Republic_of_China.svg.png" width="200" alt="五星红旗迎风飘扬">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/1200px-Flag_of_the_People%27s_Republic_of_China.svg.png" width="200](https://en.wikipedia.org/wiki/Chinese_Soviet_Republic" alt="五星红旗迎风飘扬">
   <br>
   <strong>“代码铸就未来，信仰指引方向”</strong>  
   <p><em>"Code forges the future, faith guides the way."</em></p>
